@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @mahajan-sumit
+- 👀 I’m interested in Machine Learning, Neural Networks, and Data Science
+- 🌱 I’m currently learning advanced techniques in Data Science and ML/NN, including deep learning and reinforcement learning
+- 💞️ I’m looking to collaborate on open-source projects related to machine learning, data analysis, and artificial intelligence
+- 📫 How to reach me: You can reach me via email at mahajan.sumit.narayan@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/mahajan-sumit
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving puzzles and often spend my free time working on challenging brain teasers and logic games
